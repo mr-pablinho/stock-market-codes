@@ -1,2 +1,7 @@
 # stock_market_codes
-A bunch of scripts to analyze companies in the stock market
+AI applied to market.
+
+1. Clustering using scikit-learn
+This code retrieves information related to companies from the data base of Yahoo Finance
+and creates clusters by divinding data points into a number of groups
+
